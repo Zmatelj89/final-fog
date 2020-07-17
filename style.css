@@ -1,0 +1,214 @@
+nav,
+header,
+footer {
+    display: block;
+    font-family: fantasy;
+    font-size: 10px;
+}
+
+
+
+a:link {
+    text-decoration: none;
+}
+
+a:active {
+
+    text-decoration: none;
+}
+
+a:visited {
+    color: #999999;
+    text-decoration: none;
+}
+
+u.<ul ."dodatci",a {
+    list-style: none;
+    text-decoration: overline;
+    list-style-type: none;
+}
+
+line-height: 1;
+margin: 0;
+}
+
+/* POSTAVKE ZA NAVIGACIJU*/
+* {
+    box-sizing: border-box
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
+
+
+.navbar {
+    width: 100%;
+    background-color: #555;
+    overflow: auto;
+    position: sticky;
+    top: 0;
+}
+
+.navbar a {
+    float: left;
+    padding: 12px;
+    color: white;
+    text-decoration: none;
+    font-size: 17px;
+    width: 20%;
+
+    text-align: center;
+}
+
+.navbar a:hover {
+    background-color: #000;
+}
+
+
+}
+
+div.uvod-home img {
+    padding: 1px;
+    border: 1px solid #021a40;
+}
+
+
+
+background-color: transparent;
+text-decoration: none
+}
+
+/*#########################O-nama###################*/
+
+.media {
+    align-content: center;
+}
+}
+
+div.ytp-cued-thumbnail-overlay > div {
+    width="560"height="315";
+}
+
+/*##########################USLUGE##############*/
+
+button {
+    border-radius: 50%;
+    rgba(255, 242, 255, 1);
+}
+
+table,
+tr,
+th,
+td {
+    border: 2px solid#ff0000;
+
+    text-align: center;
+    padding: 5px;
+}
+
+th {
+    background-color: #ddff99;
+}
+}
+
+div.desc {
+    text-decoration: none;
+}
+
+button {
+    border-radius: 50%;
+}
+
+/*###########################KONATKT########################*/
+input[type=text],
+select,
+textarea {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-top: 6px;
+    margin-bottom: 16px;
+    resize: vertical;
+}
+
+input[type=submit] {
+    background-color: #4CAF50;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+input[type=submit]:hover {
+    background-color: #e6e600;
+}
+
+.container {
+    border-radius: 5px;
+    background-color: #66ff66;
+    padding: 20px;
+}
+
+
+@media screen and (max-width: 500px) {
+    .navbar a {
+        float: none;
+        display: block;
+        width: 100%;
+        text-align: left;
+    }
+
+}
+
+div.responsive img {
+    display: flex;
+    align-content: center;
+    border: 2px solid #000;
+}
+
+div.gallery img {
+    width: 100%;
+    height: auto;
+}
+
+div.desc {
+    padding: 15px;
+    text-align: center;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+footer.potpis,
+p {
+    font-family: monospace;
+    text-transform: ;
+    text-align: center;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 20px;
+}
+
+.responsive {
+    padding: 0 6px;
+    float: left;
+    width: 24.99999%;
+}
+
+@media only screen and (max-width: 700px) {
+    .responsive {
+        width: 49.99999%;
+        margin: 6px 0;
+    }
+}
+
+@media only screen and (max-width: 500px) {
+    .responsive {
+        width: 100%;
