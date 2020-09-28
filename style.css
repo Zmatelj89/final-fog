@@ -22,10 +22,13 @@ a:visited {
     text-decoration: none;
 }
 
-u.<ul ."dodatci",a {
+.dodatci,a {
     list-style: none;
-    text-decoration: overline;
+    text-decoration-style: solid;
     list-style-type: none;
+    font-weight: bolder;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #555;
 }
 
 line-height: 1;
